@@ -86,6 +86,27 @@
 | `.sticker` | Convert media to sticker |
 | `.welcome` | Enable welcome message |
 | `.utag` | Tag all members |
+### 🏷 Tagging Commands
+- `.utag (msg)` – Start user tagger with message  
+- `.cancel` – Stop tagger  
+
+- `.tagall` – Start tag all in group  
+- `.tagallstop` – Stop tagall  
+
+- `.vctag` – Voice message tagall  
+- `.vctagstop` – Stop vctag  
+
+---
+
+### 🌙 Good Night / Morning / Shayari Tags
+- `.gntag` – Good Night tag all  
+- `.gntop` – Stop GN tagger  
+
+- `.gmtag` – Good Morning tag all  
+- `.gmstop` – Stop GM tagger  
+
+- `.shayari` – Shayari tag all  
+- `.shayaristop` – Stop shayari tagger  
 
 👉 Many more hidden features 😎  
 
