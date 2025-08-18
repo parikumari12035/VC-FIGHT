@@ -1,32 +1,95 @@
-<h1 align="center">🎶 VC UserBot</h1>
+<h1 align="center">🤖 SHUKLA USERBOT</h1>
 
 <p align="center">
-  <b>A Powerful Telegram Voice Chat UserBot</b><br>
+  <b>A Powerful Telegram UserBot + VC Music Bot</b><br>
   Built with ❤️ using <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a> + <a href="https://github.com/pytgcalls/pytgcalls">PyTgCalls</a>  
 </p>
 
 ---
 
 ## ✨ Features
-- 🎧 Join Group & Channel Voice Chats  
-- 🎵 Play Music via Name/URL  
-- ⏹ Stop / ⏭ Skip Songs  
-- ⚡ Easy Setup — Just add your String Session  
-- ☁️ Works 24/7 on **Heroku**  
+- 🎧 Voice Chat Music Player (Play, Pause, Resume, Stop, Skip, Seek)  
+- 🛠️ UserBot Tools (AFK, Ban, Kick, Purge, Mute, Block, etc)  
+- 🎨 Fun & Extra (Logo Maker, Carbon, Animation, Stickers, Meme, etc)  
+- 🌍 Utilities (Weather, Translate, Lyrics, Paste, Upload, Profile, etc)  
+- ⚡ Instant Setup, Runs 24/7 on Heroku  
 
 ---
 
 ## 🎵 Commands
 
+<details>
+<summary><b>🎶 VC Music Commands</b></summary>
+
 | Command | Description |
 |---------|-------------|
-| `.join` | Join Group Voice Chat |
-| `.cjoin` | Join Channel Voice Chat |
-| `.play [song/url]` | Play song in Group VC |
+| `.join` | Join Group VC |
+| `.cjoin` | Join Channel VC |
+| `.play [song/url]` | Play song in VC |
 | `.cplay [song/url]` | Play song in Channel VC |
-| `.stop` | Stop current song |
+| `.pause` | Pause music |
+| `.resume` | Resume music |
 | `.skip` | Skip current song |
+| `.stop` | Stop playback |
 | `.leave` | Leave VC |
+| `.seek [seconds]` | Seek to position |
+
+</details>
+
+---
+
+<details>
+<summary><b>😂 Fun Commands</b></summary>
+
+| Command | Description |
+|---------|-------------|
+| `.gali` | Send random gali in VC |
+| `.cgali` | Send gali in channel VC |
+| `.randi` | Send random joke |
+| `.raid` | Raid with random gali |
+| `.spam` | Spam funny texts |
+| `.leave` | Leave current chat |
+
+</details>
+
+---
+
+<details>
+<summary><b>🛠️ Tools & Utilities</b></summary>
+
+| Command | Description |
+|---------|-------------|
+| `.afk` | Set AFK |
+| `.alive` | Check bot alive status |
+| `.ai [query]` | Ask AI |
+| `.ban` | Ban a user |
+| `.unban` | Unban a user |
+| `.kick` | Kick user |
+| `.mute` | Mute user |
+| `.unmute` | Unmute user |
+| `.block` | Block user |
+| `.unblock` | Unblock user |
+| `.purge` | Delete bulk messages |
+| `.q` | Quote reply as sticker |
+| `.carbon [text]` | Carbon style image |
+| `.logo [text]` | Logo maker |
+| `.bass [song/url]` | Bass boosted song |
+| `.gcast [msg]` | Broadcast message |
+| `.weather [city]` | Weather info |
+| `.tts [text]` | Text to speech |
+| `.tr [lang] [text]` | Translate text |
+| `.lyrics [song]` | Get song lyrics |
+| `.profile` | Change profile pic |
+| `.stats` | Show system stats |
+| `.upload [file]` | Upload file |
+| `.paste [text/file]` | Paste to service |
+| `.sticker` | Convert media to sticker |
+| `.welcome` | Enable welcome message |
+| `.utag` | Tag all members |
+
+👉 Many more hidden features 😎  
+
+</details>
 
 ---
 
@@ -34,7 +97,7 @@
 
 ### 🔹 One Tap Deploy on Heroku
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/Aashik-team/VC-FIGHT">
+  <a href="https://heroku.com/deploy?template=https://github.com/V1-SHUKLA/VCBOT">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"/>
   </a>
 </p>
