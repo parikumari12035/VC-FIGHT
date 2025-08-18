@@ -85,7 +85,6 @@
 | `.paste [text/file]` | Paste to service |
 | `.sticker` | Convert media to sticker |
 | `.welcome` | Enable welcome message |
-| `.utag` | Tag all members |
 ### 🏷 Tagging Commands
 - `.utag (msg)` – Start user tagger with message  
 - `.cancel` – Stop tagger  
