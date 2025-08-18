@@ -1,4 +1,4 @@
-<h1 align="center">🤖 SHUKLA USERBOT</h1>
+<h1 align="center">🤖 VC-USERBOT</h1>
 
 <p align="center">
   <b>A Powerful Telegram UserBot + VC Music Bot</b><br>
