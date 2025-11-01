@@ -117,7 +117,7 @@
 
 ### 🔹 One Tap Deploy on Heroku
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/Aashik-team/VC-FIGHT">
+  <a href="https://heroku.com/deploy?template=https://github.com/parikumari12035/VC-FIGHT">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"/>
   </a>
 </p>
